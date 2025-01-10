@@ -37,7 +37,7 @@ const Footer = () => (
       </div>
     </div>
     <div className='footer__copyright'>
-      <p className='p__opensans'>2024 Gericht. All Rights Reserved</p>
+      <p className='p__opensans'><p>c, 2024 Ayodele Olaleye. All rights reserved</p>. All Rights Reserved</p>
     </div>
   </div>
 );
